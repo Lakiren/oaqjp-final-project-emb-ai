@@ -1,0 +1,2 @@
+theia@theiadocker-soylakeim:/home/project/final_project$ python3 server.py
+Server is Started at port : 5500
